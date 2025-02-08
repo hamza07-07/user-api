@@ -1,0 +1,150 @@
+
+
+
+
+
+[
+    {
+        "id": 1001 ,
+        "username": "Hamza",
+        "email":"abc@gmail.com",
+        "hashpass":"h@mz@7",
+        "phone":"3456789123"
+    },
+
+
+    {
+        "id": 1002 ,
+        "username": "Zain",
+        "email":"qwe@gmail.com",
+        "hashpass":"a@mz@8",
+        "phone":"3456789100"
+    },
+    
+    {
+        "id": 1003 ,
+        "username": "Qasim",
+        "email":"ert@gmail.com",
+        "hashpass":"h@mz@10",
+        "phone":"3456700123"
+    },
+    {
+        "id": 1004 ,
+        "username": "Talha",
+        "email":"tyu@gmail.com",
+        "hashpass":"z@mz@98",
+        "phone":"3126789123"
+    },
+    {
+        "id": 1005 ,
+        "username": "Tuaseef",
+        "email":"zxy@gmail.com",
+        "hashpass":"h@mz@100",
+        "phone":"3456776123"
+    },
+    {
+        "id": 1006 ,
+        "username": "Tauseef",
+        "email":"cba@gmail.com",
+        "hashpass":"h$mz@7",
+        "phone":"3056789123"
+    },
+    {
+        "id": 1007 ,
+        "username": "Kamran",
+        "email":"abq@gmail.com",
+        "hashpass":"hk%mz@7",
+        "phone":"3456789123"
+    },
+    {
+        "id": 1008 ,
+        "username": "Asim",
+        "email":"azc@gmail.com",
+        "hashpass":"a@mz@9",
+        "phone":"3456999123"
+    },
+    {
+        "id": 1009 ,
+        "username": "Tabish",
+        "email":"bbc@gmail.com",
+        "hashpass":"t@mz@7",
+        "phone":"3455789123"
+    },
+    {
+        "id": 1010 ,
+        "username": "Babar",
+        "email":"zbc@gmail.com",
+        "hashpass":"b@mz@7",
+        "phone":"3456789156"
+    },
+    {
+        "id": 1011 ,
+        "username": "Azam",
+        "email":"abx@gmail.com",
+        "hashpass":"x@mz@7",
+        "phone":"3456733123"
+    },
+    {
+        "id": 1012 ,
+        "username": "Amir",
+        "email":"apc@gmail.com",
+        "hashpass":"Am@mz@7",
+        "phone":"3106789123"
+    },
+    {
+        "id": 1013 ,
+        "username": "Smith",
+        "email":"sbc@gmail.com",
+        "hashpass":"s@mz@7",
+        "phone":"3695789123"
+    },
+    {
+        "id": 1014 ,
+        "username": "Khubaib",
+        "email":"kbc@gmail.com",
+        "hashpass":"k@mz@7",
+        "phone":"3456789129"
+    },
+    {
+        "id": 1015 ,
+        "username": "Zainuddin",
+        "email":"zzbc@gmail.com",
+        "hashpass":"hza@mz@7",
+        "phone":"3456079123"
+    },
+    {
+        "id": 10016 ,
+        "username": "Zulfikar",
+        "email":"axcc@gmail.com",
+        "hashpass":"zf@mz@7",
+        "phone":"3456787823"
+    },
+    {
+        "id": 1017 ,
+        "username": "Huzaifa",
+        "email":"ahc@gmail.com",
+        "hashpass":"hh@mz@7",
+        "phone":"345672123"
+    },
+    {
+        "id": 1018 ,
+        "username": "Haris",
+        "email":"hac@gmail.com",
+        "hashpass":"r@mz@7",
+        "phone":"3456789103"
+    },
+    {
+        "id": 1019 ,
+        "username": "Hammad",
+        "email":"azzxc@gmail.com",
+        "hashpass":"ham@mz@7",
+        "phone":"34561189123"
+    },
+    {
+        "id": 1020 ,
+        "username": "Lahman",
+        "email":"alc@gmail.com",
+        "hashpass":"l@mz@7",
+        "phone":"3456789696"
+    }
+]
